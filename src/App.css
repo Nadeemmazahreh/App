@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  float: left;
+  padding: 16px;
+  text-align: center;
+}
+
+.block{
+  display:inline-table; 
+	width: 100px; 
+	height: auto; 
+}
