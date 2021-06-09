@@ -32,6 +32,7 @@ class SelectedBeast extends React.Component {
               title = {this.props.title}
               description = {this.props.description}
               setModalShow = {this.setModalShow}
+              horns = {this.props.horns}
             />
 
             <MyVerticallyCenteredModal
